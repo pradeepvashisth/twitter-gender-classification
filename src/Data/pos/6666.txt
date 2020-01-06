@@ -1,0 +1,1 @@
+: Since Bitcoin Core is no longer usable as a currency, we should no longer consider it to be a crypto currency.

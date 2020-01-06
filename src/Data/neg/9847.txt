@@ -1,0 +1,1 @@
+. uses Endevor to fully automate their CI / CD pipeline to the tune of over K deployments per month. L…

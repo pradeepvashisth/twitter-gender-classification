@@ -1,0 +1,1 @@
+: The odds of a coin flip are not -50, but actually -49. It will most likely land facing the same direction as it started.
